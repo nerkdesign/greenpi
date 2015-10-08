@@ -6,11 +6,11 @@ Arrosage automatique
 ####Informatique :
 
 - Installtion wiringpi :
-          sudo apt-get install git-core
-          git clone git://git.drogon.net/wiringPi
-          cd wiringPi
-          git pull origin
-          ./build
+          - sudo apt-get install git-core
+          - git clone git://git.drogon.net/wiringPi
+          - cd wiringPi
+          - git pull origin
+          - ./build
           
 - Installation Raspbian, php5, apache2 (aptitude install php5 apache2)
 
