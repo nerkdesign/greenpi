@@ -1,0 +1,7 @@
+Déposer ici les icones que vous souhaitez :
+
+plante.png
+thermometre.png
+humidite.png
+ampoule.png
+pompe.png
